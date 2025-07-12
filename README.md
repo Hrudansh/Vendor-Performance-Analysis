@@ -2,6 +2,17 @@
 
 This project provides a comprehensive analysis of vendor performance based on purchase, sales, and logistics data. It helps businesses make informed decisions on vendor selection, pricing optimization, and inventory efficiency using statistical methods and visualization tools.
 
+# My Project
+
+Here are some screenshots:
+
+### 📸 Dashboard Screenshot
+[![Dashboard_1](assets/images/Home.png)](assets/images/Home.png)
+[![Dashboard_2](assets/images/Vendor-Summary.png)](assets/images/Vendor-Summary.png)
+[![Dashboard_3](assets/images/Brand-Summary.png)](assets/images/Brand-Summary.png)
+[![Dashboard_4](assets/images/Inventory-Summary.png)](assets/images/Inventory-Summary.png)
+
+
 ---
 
 ## 📁 Project Structure
