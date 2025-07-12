@@ -8,9 +8,9 @@ Here are some screenshots:
 
 ### 📸 Dashboard Screenshot
 [![Dashboard_1](assets/images/Home.png)](assets/images/Home.png)
-[![Dashboard_2](assets/images/Vendor Summary.png)](assets/images/Vendor Summary.png)
-[![Dashboard_3](assets/images/Brand Summary.png)](assets/images/Brand Summary.png)
-[![Dashboard_4](assets/images/Inventory Summary.png)](assets/images/Inventory Summary.png)
+[![Dashboard_2](assets/images/Vendor%20Summary.png)](assets/images/Vendor%20Summary.png)
+[![Dashboard_3](assets/images/Brand%20Summary.png)](assets/images/Brand%20Summary.png)
+[![Dashboard_4](assets/images/Inventory%20Summary.png)](assets/images/Inventory%20Summary.png)
 
 
 ---
